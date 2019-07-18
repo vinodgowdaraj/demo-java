@@ -23,7 +23,10 @@
         <artifactId>maven-war-plugin</artifactId>
         <version>3.0.0</version>
       </plugin>
-    </plugins>
+      <plugin>
+       <artifactId>maven-compiler-plugin</artifactId>
+        </pulgin>
+     </plugins>
   </build>
   <dependencies>
     <dependency>
